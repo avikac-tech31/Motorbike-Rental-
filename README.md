@@ -10,5 +10,5 @@ The program takes the Member ID, Bike registration number, mobile number, and nu
 
 This program has nothing to do in real life. The topic was created completely from my imagination.
 
-# Output:-
+# Sample Output:-
 See Output.jpg
