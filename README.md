@@ -8,5 +8,7 @@ A company provides motorbikes on rent to its members only on the basis of the fo
 
 The program takes the Member ID, Bike registration number, mobile number, and number of days the bike was taken on rent as input. It calculates the total rent amount to be paid by the member and then displays it along with the inputs taken.
 
+This program has nothing to do in real life. The topic was created completely from my imagination.
+
 # Output:-
 See Output.jpg
