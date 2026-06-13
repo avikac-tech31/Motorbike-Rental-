@@ -2,6 +2,7 @@
 A company provides motorbikes on rent to its members only on the basis of the following slabs:-
 
     No of days          Rate per day in Rs. 
+
     First 5 days             550
     Next 5 days              400
     above 10 days            250
